@@ -5,14 +5,14 @@ import {
   useReducer,
   useState,
 } from 'react'
-import { Cycle, CyclesReducer } from '../reducers/cycles/reducer'
+import { differenceInSeconds } from 'date-fns'
+
 import {
-  ActionTypes,
   addNewCycleAction,
   interruptCycleAction,
   markCurrentCycleAsFinishedAction,
 } from '../reducers/cycles/actions'
-import { differenceInSeconds } from 'date-fns'
+import { Cycle, CyclesReducer } from '../reducers/cycles/reducer'
 
 interface CreateCycleData {
   task: string
