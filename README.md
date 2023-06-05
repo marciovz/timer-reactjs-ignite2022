@@ -7,9 +7,9 @@ O TIMER é uma aplicação WEB para controle do tempo de trabalho em tarefas, on
 É um projeto com o intuíto de aplicar os conceitos aprendidos no módulo 2 do curso Ignite ReactJS da Rocketseat versão 2022.
 
 <div align="center">
-  <img alt="Todo Aplication" src="./.github/images/timer-home.png" width="300px" />
-  <img alt="Todo Aplication" src="./.github/images/timer-running.png" width="300px" />
-  <img alt="Todo Aplication" src="./.github/images/timer-history.png" width="300px" />
+  <img alt="Todo Aplication" src="./.github/images/timer-home.png" width="250px" />
+  <img alt="Todo Aplication" src="./.github/images/timer-running.png" width="250px" />
+  <img alt="Todo Aplication" src="./.github/images/timer-history.png" width="250px" />
 </div>
 
 ## Requisitos
